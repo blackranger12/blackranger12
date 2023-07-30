@@ -23,8 +23,6 @@
 
 
 
-
-
 <h3>✍️ Random Dev Quote</h3>
 
 <div align="center">
